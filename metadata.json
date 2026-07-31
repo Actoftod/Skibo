@@ -1,0 +1,6 @@
+{
+  "name": "Skip-Bo: Overdrive",
+  "description": "High-velocity sequencing card game with chain combos, aspect wilds, sabotage, draft wagers, and blast radius mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
